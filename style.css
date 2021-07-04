@@ -63,3 +63,16 @@ h2{
     background-repeat: no-repeat;
     background-position: left;
 }
+#baby-dev-color{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(225, 76, 65), rgb(255, 208, 0));
+    border-image-slice: 1;
+    
+}
+#full-dev-color{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, aqua);
+    border-image-slice: 1;
+    
+
+}
