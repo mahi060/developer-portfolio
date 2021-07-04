@@ -17,3 +17,11 @@ section{
 .half-width img{
     width:100%;
 }
+.hire-me{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(salmon,red);
+    padding:10px 40px;
+    border-radius: 10px;
+    font-weight: 700;
+}
