@@ -30,3 +30,14 @@ section{
     border-radius: 10px;
     font-weight: 700;
 }
+.sec-2{
+    display: flex;
+}
+.button2{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(tomato,red);
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 800;
+}
